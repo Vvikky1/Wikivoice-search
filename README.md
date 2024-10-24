@@ -1,2 +1,3 @@
 # Wikivoice-search
 Voice-Driven Wikipedia Assistant
+Developed a voice-driven assistant using Python, Flask, and the Web Speech API to provide hands-free access to Wikipedia information. Leveraged pyttsx3 for text-to-speech capabilities to create a fully interactive and responsive voice assistant. Users can query Wikipedia by speaking into the microphone, with results read back to them in real time. Integrated with RESTful APIs to handle user queries and deliver accurate summaries. Designed a user-friendly interface with responsive audio feedback, enhancing the user experience through seamless voice interactions.
